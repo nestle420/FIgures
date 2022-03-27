@@ -1,0 +1,5 @@
+/.idea/
+/cmake-build-debug/.cmake/api/v1/
+/cmake-build-debug/CMakeFiles/
+/cmake-build-debug/Testing/Temporary/
+/cmake-build-debug/
